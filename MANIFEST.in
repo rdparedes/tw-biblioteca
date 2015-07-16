@@ -1,0 +1,2 @@
+recursive-include tw-biblioteca/templates *
+recursive-include tw-biblioteca/static *
