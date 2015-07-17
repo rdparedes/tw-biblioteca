@@ -3,6 +3,8 @@
 bin
 lib
 include
+dist
+build
 
 # Mac OS X custom attribute files
 .DS_Store

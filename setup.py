@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 	required = f.read().splitlines()
 
 setup(
-	 name='TW Biblioteca',
+	 name='twbiblioteca',
 	 version='1.0',
 	 long_description=__doc__,
 	 packages=find_packages(),
