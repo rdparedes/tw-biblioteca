@@ -1,2 +1,2 @@
-recursive-include tw-biblioteca/templates *
-recursive-include tw-biblioteca/static *
+recursive-include twbiblioteca/templates *
+recursive-include twbiblioteca/static *
