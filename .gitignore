@@ -8,3 +8,11 @@ build
 
 # Mac OS X custom attribute files
 .DS_Store
+
+# Other files
+*.pyc
+*.pyo
+*.egg
+*.egg-info
+_mailinglist
+.tox
