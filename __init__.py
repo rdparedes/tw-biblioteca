@@ -1,3 +1,4 @@
+# Load config and environments
 import config
 
 from flask import Flask
