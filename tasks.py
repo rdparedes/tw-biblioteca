@@ -16,4 +16,4 @@ def clean(docs=False, bytecode=False, extra=''):
 def runserver():
 	PORT = '5000'
 	appName = 'app'
-	run('gunicorn -b 0.0.0.0:' + PORT + ' wsgi:' + appName)
+	run('gunicorn -b 0.0.0.0:' + PORT + ' twbiblioteca.wsgi:' + appName)
