@@ -6,7 +6,7 @@ def clean(docs=False, bytecode=False, extra=''):
 	if docs:
 		patterns.append('docs/_build')
 	if bytecode:
-		patterns.append('*.pyc')
+		patterns.append('**/*.pyc')
 	if extra:
 		patterns.append(extra)
 	for pattern in patterns:

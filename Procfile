@@ -1,1 +1,1 @@
-web: gunicorn wsgi:app --log-file -
+web: gunicorn twbiblioteca.wsgi:app --log-file -
