@@ -1,6 +1,7 @@
 # Virtualenv
 .Python
 bin
+venv
 lib
 include
 dist
